@@ -4,9 +4,9 @@
 #####   VERSÃO:                         1.2
 #####   DESCRIÇÃO:                      Implementação rotina de remoção de arquivos com mais de 90dias da lixeira
 ##### e cria um registro de log para este scripty
-#####   DATA DA CRIAÇÃO:        26/05/2023
-##### ATUALIZADO EM: 18/08/2023
-#####   ESCRITO POR:            Natan Ogliari
+#####   DATA DA CRIAÇÃO:        26/01/2025
+##### ATUALIZADO EM: 19/04/2025
+#####   ESCRITO POR:            Gabriel Antonio
 #####   E-MAIL:                         gabrieldlobo@icloud.com
 #####   DISTRO:                         Ubuntu GNU/Linux 22.04
 #####   LICENÇA:                        MIT license
