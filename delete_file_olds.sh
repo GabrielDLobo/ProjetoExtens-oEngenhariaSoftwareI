@@ -7,10 +7,10 @@
 #####   DATA DA CRIAÇÃO:        26/05/2023
 ##### ATUALIZADO EM: 18/08/2023
 #####   ESCRITO POR:            Natan Ogliari
-#####   E-MAIL:                         natanogliari@gmail.com
+#####   E-MAIL:                         gabrieldlobo@icloud.com
 #####   DISTRO:                         Ubuntu GNU/Linux 22.04
 #####   LICENÇA:                        MIT license
-#####   PROJETO:                        https://github.com/OgliariNatan/servidor-file-samba4
+#####   PROJETO:                        https://github.com/GabrielDLobo/ProjetoExtens-oEngenhariaSoftwareI/tree/main
 
 echo -e "Removendo arquivos na data de: $(date +%d%m%y)" >> /home/servidor/samba/conf/log/log.delete_file_olds
 echo -e "Entro no scripty de remoção de arquivos da lixeira \n\n" >> /home/servidor/samba/conf/log/log.delete_file_olds
